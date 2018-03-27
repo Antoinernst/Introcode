@@ -1,0 +1,44 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Roboto;
+}
+
+nav {
+  font-size: 1em;
+  font-family: Roboto;
+  width: 250px; 
+}
+
+nav:hover {
+  font-size: :1em;
+  font-family: Roboto;
+  background: pink;
+}
+
+h1{
+  font-family: Roboto;
+  color: red;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+#title{
+  font-size: 50px;
+}
+
+h2 {
+  font-family: Roboto;
+  color: black;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
