@@ -63,7 +63,7 @@ a:hover {
   background-color: #41A3C0;
   text-align: center;
   background-size: cover;
-  padding: 150px;
+  padding: 120px;
   color: white;
   text-shadow: 1px 1px 5px black;
 }
@@ -82,20 +82,20 @@ a:hover {
 
  #apropos{
   margin: 0 auto;
-  width: 70%;
+  width: 100%;
   background: radial-gradient(circle at center, #c5cfe5, #39627a);
   display:flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
- .feature,.defi {border: 1px solid #F2F2F2;
+.feature,.defi {border: 1px solid #F2F2F2;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
   width: 400px;
   background: #d1eeff;
- }
+}
 
 #logo{
   color: #fff;
@@ -114,10 +114,20 @@ a:hover {
 #welcome{
   background-color: #41A3C0;
   text-align: center;
-  padding: 50px;
+  padding: 90px;
   color: white;
+  text-shadow: 1px 1px 5px black;
 }
 
 #welcome h4{
  font-size: 50px;
+}
+
+#defis{
+  margin: 0 auto;
+  width: 100%;
+  background: radial-gradient(circle at center, #c5cfe5, #39627a);
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
